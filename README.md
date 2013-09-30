@@ -1,0 +1,4 @@
+ServidorSpaceCraft
+==================
+
+Pasta principal servidor
